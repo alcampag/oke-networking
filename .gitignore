@@ -1,0 +1,5 @@
+*.zip
+config.auto.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform
