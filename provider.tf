@@ -9,5 +9,5 @@ terraform {
 
 provider "oci" {
   region = var.region
-  config_file_profile = var.LOCAL_ENV ? var.config_file_profile : null
+#  config_file_profile = var.LOCAL_ENV ? var.config_file_profile : null
 }
